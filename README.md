@@ -7,6 +7,8 @@ Labor
 * BMW
 * Audi
 
+wir schreiben was
+
 ## Mein Programm 
 
 ```C
@@ -22,12 +24,12 @@ return 0;
 
 Meine Lieblingsgerichte:
 
-1)Nudeln  
+1)Nudeln
 2)Brot
 
- Hund | Brot | LOL | Katze  
+ Hund | Brot | LOL | Katze
  ----------------- | ----------------- | ----------------- | ----------------- |
  V1 | LOL
  
- Laut WIKI:  
+ Laut WIKI:
  > Warum ist es mir ~~überhaupt~~ in den Sinn gekommen
